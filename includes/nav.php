@@ -4,14 +4,14 @@
                 <div class="container-fluid">
                     <div class="header_bottom_border">
                         <div class="row align-items-center">
-                            <div class="col-xl-4 col-lg-2">
+                            <div class="col-xl-3 col-lg-2">
                                 <div class="logo">
                                     <a href="index.php">
                                         <img src="img/logo.png" alt="">
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-xl-4 col-lg-6">
+                            <div class="col-xl-5 col-lg-6 text-center">
                                 <div class="main-menu  d-none d-lg-block">
                                     <nav>
                                         <ul id="navigation">
