@@ -36,8 +36,21 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center">
-                                <h3>Hire Us</h3>
+                                <h3>Lucknow</h3>
                                 <p>We are pleasure to serve you</p>
+                                <!-- <a href="#" class="boxed-btn3">Explore Now</a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="single_slider  d-flex align-items-center slider_bg_4 overlay">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-xl-12 col-md-12">
+                            <div class="slider_text text-center">
+                                <!-- <h3>Delhi to Lucknow</h3>
+                                <p>We are pleasure to serve you</p> -->
                                 <!-- <a href="#" class="boxed-btn3">Explore Now</a> -->
                             </div>
                         </div>
@@ -216,7 +229,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_place">
                         <div class="thumb">
-                            <img src="img/place/1.png" alt="">
+                            <img src="img/place/2.png" alt="">
                             <!-- <a href="#" class="prise">$500</a> -->
                         </div>
                         <div class="place_info">
@@ -244,7 +257,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_place">
                         <div class="thumb">
-                            <img src="img/place/1.png" alt="">
+                            <img src="img/place/3.png" alt="">
                             <!-- <a href="#" class="prise">$500</a> -->
                         </div>
                         <div class="place_info">

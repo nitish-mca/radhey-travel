@@ -19,7 +19,7 @@
     </div>
     <!--/ bradcam_area  -->
 
-    <div class="about_story">
+    <div class="about_story pt-5">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
