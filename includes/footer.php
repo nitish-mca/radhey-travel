@@ -90,27 +90,27 @@
                                 </div>
                                 <div class="single_insta">
                                     <a href="#">
-                                        <img src="img/instagram/2.png" alt="">
+                                        <img src="img/instagram/1.png" alt="">
                                     </a>
                                 </div>
                                 <div class="single_insta">
                                     <a href="#">
-                                        <img src="img/instagram/3.png" alt="">
+                                        <img src="img/instagram/1.png" alt="">
                                     </a>
                                 </div>
                                 <div class="single_insta">
                                     <a href="#">
-                                        <img src="img/instagram/4.png" alt="">
+                                        <img src="img/instagram/1.png" alt="">
                                     </a>
                                 </div>
                                 <div class="single_insta">
                                     <a href="#">
-                                        <img src="img/instagram/5.png" alt="">
+                                        <img src="img/instagram/1.png" alt="">
                                     </a>
                                 </div>
                                 <div class="single_insta">
                                     <a href="#">
-                                        <img src="img/instagram/6.png" alt="">
+                                        <img src="img/instagram/1.png" alt="">
                                     </a>
                                 </div>
                             </div>
