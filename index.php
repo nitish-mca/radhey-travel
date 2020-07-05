@@ -74,16 +74,20 @@
                     <div class="search_wrap">
                         <form class="search_form" action="#">
                             <div class="input_field">
-                                <input type="text" placeholder="Where to go?">
+                            <select>
+                                    <option data-display="Start Journey From">Start Journey from</option>
+                                    <option value="1">Delhi</option>
+                                    <option value="2">Lucknow</option>
+                                </select>
                             </div>
                             <div class="input_field">
                                 <input id="datepicker" placeholder="Date">
                             </div>
                             <div class="input_field">
                                 <select>
-                                    <option data-display="Travel type">Travel type</option>
-                                    <option value="1">Some option</option>
-                                    <option value="2">Another option</option>
+                                    <option data-display="Where to go">Where to go</option>
+                                    <option value="1">Delhi</option>
+                                    <option value="2">Lucknow</option>
                                 </select>
                             </div>
                             <div class="search_btn">
@@ -318,7 +322,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_travel text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/1.svg" alt="">
+                            <img src="img/svg_icon/3.png" alt="">
                         </div>
                         <h3>Comfortable Journey</h3>
                         <p>A wonderful Journey will be always remember.</p>
@@ -327,7 +331,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_travel text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/2.svg" alt="">
+                            <img src="img/svg_icon/1.png" alt="">
                         </div>
                         <h3>Safety</h3>
                         <p>Your Safety is our first priority.</p>
@@ -336,7 +340,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_travel text-center">
                         <div class="icon">
-                            <img src="img/svg_icon/3.svg" alt="">
+                            <img src="img/svg_icon/2.png" alt="">
                         </div>
                         <h3>Travel Guide</h3>
                         <p>We provide travel guide on call.</p>
