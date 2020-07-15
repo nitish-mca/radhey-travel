@@ -1,19 +1,5 @@
 <?php include('./includes/header.php')?>
 <body>
-    <!-- header-start -->
-    <!-- Gurgaon: 8:00 PM 
-Lucknow: 4:00 AM
-RaiBarely: 5:00 AM
-MaharajGanj: 5:30 AM
-Inhona: 6:00 AM
-Sukal Bazaar: 6:30 AM
-
-sukal Bazaar: 4:00 PM
-Inhona: 4:30 PM
-Maharajganj: 5:00 PM
-Raibarely: 5:30
-lucknow: 8PM
-Delhi: 5 AM -->
     <?php include('./includes/nav.php') ?>
     <!-- slider_area_start -->
     <div class="slider_area">
