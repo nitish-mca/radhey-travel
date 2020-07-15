@@ -67,11 +67,11 @@
                             </h3>
                             <ul class="links double_links">
                                 <li><a href="#">Delhi</a></li>
+                                <li><a href="#">Gurugram</a></li>
                                 <li><a href="#">Lucknow</a></li>
-                                <!-- <li><a href="#">India</a></li>
-                                <li><a href="#">Switzerland</a></li>
-                                <li><a href="#">Italy</a></li>
-                                <li><a href="#">Canada</a></li>
+                                <li><a href="#">Raebareli</a></li>
+                                <li><a href="#">Maharajganj</a></li>
+                                <!-- <li><a href="#">Canada</a></li>
                                 <li><a href="#">Franch</a></li>
                                 <li><a href="#">England</a></li> -->
                             </ul>

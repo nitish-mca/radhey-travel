@@ -76,8 +76,8 @@
                             <div class="input_field">
                             <select>
                                     <option data-display="Start Journey From">Start Journey from</option>
-                                    <option value="1">Delhi</option>
-                                    <option value="2">Lucknow</option>
+                                    <option value="del">Delhi/Gurgaon</option>
+                                    <option value="luck">Lucknow/Raebareli</option>
                                 </select>
                             </div>
                             <div class="input_field">
@@ -86,8 +86,8 @@
                             <div class="input_field">
                                 <select>
                                     <option data-display="Where to go">Where to go</option>
-                                    <option value="1">Delhi</option>
-                                    <option value="2">Lucknow</option>
+                                    <option value="luck">Lucknow/Raebareli</option>
+                                    <option value="del">Delhi/Gurgaon</option>                                    
                                 </select>
                             </div>
                             <div class="search_btn">
@@ -116,12 +116,10 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_destination">
                         <div class="thumb">
-                            <img src="img/destination/1.png" alt="">
+                            <img src="img/destination/1.png" alt="Delhi">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Delhi
-                                <!-- <a href="travel_destination.html"> 07 Places</a> -->
-                            </p>
+                            <p class="d-flex align-items-center">Delhi</p>
 
                         </div>
                     </div>
@@ -129,24 +127,10 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_destination">
                         <div class="thumb">
-                            <img src="img/destination/2.png" alt="">
+                            <img src="img/destination/2.png" alt="Lucknow">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Lucknow
-                                <!-- <a href="travel_destination.html"> 03 Places</a> -->
-                            </p>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- <div class="col-lg-4 col-md-6">
-                    <div class="single_destination">
-                        <div class="thumb">
-                            <img src="img/destination/3.png" alt="">
-                        </div>
-                        <div class="content">
-                            <p class="d-flex align-items-center">America <a href="travel_destination.html"> 10
-                                    Places</a> </p>
+                            <p class="d-flex align-items-center">Lucknow</p>
 
                         </div>
                     </div>
@@ -154,39 +138,13 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_destination">
                         <div class="thumb">
-                            <img src="img/destination/4.png" alt="">
+                            <img src="img/destination/raebareli.png" style="height:260px" alt="Raebareli">
                         </div>
                         <div class="content">
-                            <p class="d-flex align-items-center">Nepal <a href="travel_destination.html"> 02 Places</a>
-                            </p>
-
+                            <p class="d-flex align-items-center">Raebareli</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_destination">
-                        <div class="thumb">
-                            <img src="img/destination/5.png" alt="">
-                        </div>
-                        <div class="content">
-                            <p class="d-flex align-items-center">Maldives <a href="travel_destination.html"> 02
-                                    Places</a> </p>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single_destination">
-                        <div class="thumb">
-                            <img src="img/destination/6.png" alt="">
-                        </div>
-                        <div class="content">
-                            <p class="d-flex align-items-center">Indonesia <a href="travel_destination.html"> 05
-                                    Places</a> </p>
-
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </div>
     </div>
@@ -212,7 +170,7 @@
                             <a href="destination_details.html">
                                 <h3>AC Buses</h3>
                             </a>
-                            <p>2x2 Push Back <span>35 Seater</span></p>
+                            <p>2x2 Push Back <span>48 Seater</span></p>
                             <div class="rating_days d-flex justify-content-between">
                                 <span class="d-flex justify-content-center align-items-center">
                                     <i class="fa fa-star"></i>
@@ -238,9 +196,9 @@
                         </div>
                         <div class="place_info">
                             <a href="destination_details.html">
-                                <h3>Tourist Buses</h3>
+                                <h3>AC Sleepers</h3>
                             </a>
-                            <p>AC Sleeper <span>35 Seater</span></p>
+                            <p>AC Sleepers <span>35 Seater</span></p>
                             <div class="rating_days d-flex justify-content-between">
                                 <span class="d-flex justify-content-center align-items-center">
                                     <i class="fa fa-star"></i>
@@ -261,12 +219,12 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="single_place">
                         <div class="thumb">
-                            <img src="img/place/3.png" alt="">
+                            <img src="img/fleet/dezire1.jpg" alt="">
                             <!-- <a href="#" class="prise">$500</a> -->
                         </div>
                         <div class="place_info">
                             <a href="destination_details.html">
-                                <h3>Luxury Cabs</h3>
+                                <h3>Luxury Cabs (Sedan)</h3>
                             </a>
                             <p>Sedan <span>4 Seater</span></p>
                             <div class="rating_days d-flex justify-content-between">
@@ -276,7 +234,63 @@
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
                                     <i class="fa fa-star"></i>
-                                    <a href="#">(86 Review)</a>
+                                    <a href="#">(106 Review)</a>
+                                </span>
+                                <!-- <div class="days">
+                                    <i class="fa fa-clock-o"></i>
+                                    <a href="#">5 Days</a>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_place">
+                        <div class="thumb">
+                            <img src="img/fleet/ertiga.jpg" alt="">
+                            <!-- <a href="#" class="prise">$500</a> -->
+                        </div>
+                        <div class="place_info">
+                            <a href="destination_details.html">
+                                <h3>Luxury Cabs (MPV/SUV)</h3>
+                            </a>
+                            <p>MPV/SUV <span>6 Seater</span></p>
+                            <div class="rating_days d-flex justify-content-between">
+                                <span class="d-flex justify-content-center align-items-center">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <a href="#">(26 Review)</a>
+                                </span>
+                                <!-- <div class="days">
+                                    <i class="fa fa-clock-o"></i>
+                                    <a href="#">5 Days</a>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single_place">
+                        <div class="thumb">
+                            <img src="img/fleet/tempo-25.jpg" style="height:215px" alt="">
+                            <!-- <a href="#" class="prise">$500</a> -->
+                        </div>
+                        <div class="place_info">
+                            <a href="destination_details.html">
+                                <h3>Tempo Traveller</h3>
+                            </a>
+                            <p>Tempo Traveller <span>12/18/24 Seater</span></p>
+                            <div class="rating_days d-flex justify-content-between">
+                                <span class="d-flex justify-content-center align-items-center">
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <i class="fa fa-star"></i>
+                                    <a href="#">(6 Review)</a>
                                 </span>
                                 <!-- <div class="days">
                                     <i class="fa fa-clock-o"></i>
@@ -352,7 +366,7 @@
 
 
     <!-- testimonial_area  -->
-    <div class="testimonial_area">
+    <!-- <div class="testimonial_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -409,7 +423,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- /testimonial_area  -->
     <!-- 
 
