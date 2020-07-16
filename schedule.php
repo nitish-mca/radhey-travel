@@ -20,8 +20,11 @@
     <!-- ================ contact section start ================= -->
     <section class="contact-section">
         <div class="container">
+            <?php if($_REQUEST['source'] != 'delhi'): ?>
             <div>
-                <?php if($_REQUEST['source'] != 'delhi'): ?>
+                <h3> Sukal Bazar (RaiBarely) - Lucknow - Delhi </h3>
+
+
                 <table>
                     <tr>
                         <td>Sukal Bazaar</td>
@@ -48,11 +51,12 @@
                         <td>5:00 AM </td>
                     </tr>
                 </table>
-                <?php endIf;?>
-            </div>
 
+            </div>
+            <?php endIf;?>
+            <?php if($_REQUEST['source']== 'delhi'): ?>
             <div>
-                <?php if($_REQUEST['source']== 'delhi'): ?>
+                <h3> Sukal Bazar (RaiBarely) - Lucknow - Delhi </h3>
                 <table>
                     <tr>
                         <td>Kapasahera Border (Delhi/Gurugram)</td>
@@ -80,8 +84,9 @@
                     </tr>
 
                 </table>
-                <?php endIf;?>
+
             </div>
+            <?php endIf;?>
         </div>
     </section>
 
