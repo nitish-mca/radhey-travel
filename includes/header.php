@@ -4,8 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="keywords"
+        content="Radhey Travel, Delhi to Lucknow, Gurugram to Lucknow, Guragao to Lucknow, Lucknow to Guragaon, Delhi to Rae Barely, Bus Reservation, Bus Offers, Bus Ticket Price, Bus Fare, Private Bus Booking, Bus Travel, Best Bus, bus route, track bus, buses, online booking, online tickets, bus tickets, ticket booking">
+    <meta name="description"
+        content="Do your Bus Booking with Radhey Travels to get reasonable bus tickets and to have a comfortable journey with family and friends">
     <title>Radhey Travel</title>
-    <meta name="description" content="Radhey Travel, Tour">
+    <meta name="description" content="RadheyTravel.in, Radhey Travel, Tour">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
