@@ -8,8 +8,8 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="bradcam_text text-center">
-                        <h3>Contact</h3>
-                        <p>Radhey Travel</p>
+                        <h3>Contact Us</h3>
+                        <p>We are happy to serve you</p>
                     </div>
                 </div>
             </div>

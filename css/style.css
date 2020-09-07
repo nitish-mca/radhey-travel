@@ -2065,7 +2065,7 @@ h3 {
 
 /* line 10, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_4 {
-  background-image: url(../img/banner/bradcam4.png);
+  background-image: url(../img/banner/banner3.jpg);
 }
 
 /* line 13, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
@@ -4215,6 +4215,8 @@ h6 {
   background-position: center center !important;
   background-size: cover !important;
   height: 200px;
+  box-shadow: 0px 0px 5px #ddd;
+    border: 4px solid #fff;
 }
 
 /* line 449, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
